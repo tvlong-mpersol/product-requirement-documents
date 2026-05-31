@@ -5,22 +5,35 @@ last_updated: 2026-05-31
 related_prd: "BPL-148"
 source_issue: "BPL-150"
 multica_epics:
+  - "BPL-148"
   - "BPL-150"
 related_screens:
   - home-dashboard
   - my-plans-list
   - settings-profile
   - plan-detail
+  - onboarding-wizard
+  - image-to-plan
+  - qa-chat
   - empty-states
   - loading-states
   - error-states
+  - animation-map
 ---
 
 # AquaPlan UX Solution — Document Index
 
-> **Blueprint for Figma implementation** — all measurements in px, all tokens from the [Ocean Depth Palette](#), Major Third type scale, and 4px spacing grid.
+> **Blueprint for Figma implementation** — all measurements in px, all tokens from the [Ocean Depth Palette](#design-token-summary), Major Third type scale, and 4px spacing grid.
 > Reference: [BPL-148](mention://issue/ca83a738-a1b4-4e22-ab85-d90dafce218a) PRD vFinal (2026-05-30)
 > Source: [BPL-150](mention://issue/70477c81-f864-4595-80fd-1d55abef5805) — Create Figma file for AquaPlan app based on PRD
+
+---
+
+## 📑 Master Design Spec
+
+The authoritative compiled design specification is at:
+
+> **[AquaPlan-Final-Design-Spec.md](../AquaPlan-Final-Design-Spec.md)** — All 4 PRD gates compiled into a single document: Business Context, Global Style Guide, UX/UI Flow, Unhappy Path Handling.
 
 ---
 
