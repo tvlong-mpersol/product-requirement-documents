@@ -32,4 +32,4 @@ To ensure future agents and human developers can easily navigate the logic:
 
 *(AI Agents: Append new product links below this line. Keep the list alphabetized.)*
 
-*   [Example Product Name](./example-product/README.md) - *Short description of the product.*
+*   [AquaPlan](./aquaplan/README.md) - *Cross-platform AI-assisted aquarium & paludarium planner app (Web, Mobile, iPad).*
